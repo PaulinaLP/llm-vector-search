@@ -142,7 +142,7 @@ Now use the code from the module to calculate the hitrate of
 
 What did you get?
 
-* 0.93
+* 0.93 ok
 * 0.73
 * 0.53
 * 0.33
@@ -158,6 +158,8 @@ After indexing, let's perform the search of the same query from Q1.
 
 What's the ID of the document with the highest score?
 
+ee58a693
+
 ## Q6. Hit-rate for Elasticsearch
 
 The search engine we used in Q4 computed the similarity between
@@ -171,7 +173,7 @@ exact search (as in Q4) to approximate search with Elastic.
 
 What's hitrate for our dataset for Elastic?
 
-* 0.93
+* 0.93 ok
 * 0.73
 * 0.53
 * 0.33
